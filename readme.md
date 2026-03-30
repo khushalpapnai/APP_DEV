@@ -132,5 +132,5 @@ Scan the QR code using the **Expo Go** app on your mobile device to view the UI/
 ## 📖 License
 
 This project is for learning and design showcase purposes.
-```
+
 
