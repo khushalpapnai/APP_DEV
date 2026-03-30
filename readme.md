@@ -11,10 +11,10 @@ It focuses on design and user experience — showing how the app could look acro
 ## 📱 UI / UX Preview
 
 ### Mobile View
-![Mobile UI](https://github.com/khushalpapnai/APP_DEV/blob/3b1f638db00d3996d7eac7e7b1211fd6e3b5207e/UI_UX/assets/screenshots/mobile.jpeg)
+![Mobile UI] (https://github.com/khushalpapnai/APP_DEV/blob/3b1f638db00d3996d7eac7e7b1211fd6e3b5207e/UI_UX/assets/screenshots/mobile.jpeg)
 
 ### Laptop / Web View
-![Web UI](https://github.com/khushalpapnai/APP_DEV/blob/3b1f638db00d3996d7eac7e7b1211fd6e3b5207e/UI_UX/assets/screenshots/web.jpeg)
+![Web UI] (https://github.com/khushalpapnai/APP_DEV/blob/3b1f638db00d3996d7eac7e7b1211fd6e3b5207e/UI_UX/assets/screenshots/web.jpeg)
 
 *(Replace the paths above with your actual screenshot file paths inside the repo, e.g., `assets/screenshots/`)*
 
