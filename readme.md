@@ -1,6 +1,3 @@
-Got it — since your project is a **Todo List UI/UX showcase**, here’s a clean and professional **README.md** you can use on GitHub. It emphasizes that this is a front‑end design demo, explains setup, and includes placeholders for screenshots of how it looks on mobile and web.
-
-```markdown
 # Todo List UI/UX Showcase
 
 This project is a **UI/UX front‑end demo** of a Todo List application built with **Expo** and **React Native**.  
