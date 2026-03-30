@@ -8,12 +8,11 @@ It focuses on design and user experience — showing how the app could look acro
 ## 📱 UI / UX Preview
 
 ### Mobile View
-![Mobile UI](UI_UX/assets/screenshots/mobile.jpeg)
+<img src="UI_UX/assets/screenshots/mobile.jpeg" alt="Mobile UI" width="300" />
 
 ### Laptop / Web View
-![Web UI](UI_UX/assets/screenshots/web.jpeg)
+<img src="UI_UX/assets/screenshots/web.jpeg" alt="Web UI" width="600" />
 
-*(Replace the paths above with your actual screenshot file paths inside the repo, e.g., `assets/screenshots/`)*
 
 ---
 
