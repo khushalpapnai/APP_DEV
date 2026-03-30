@@ -1,10 +1,9 @@
-# Todo List UI/UX Showcase
+# 🎨 UI/UX Refresh — Todo List App
 
-This project is a **UI/UX front‑end demo** of a Todo List application built with **Expo** and **React Native**.  
-It focuses on design and user experience — showing how the app could look across mobile and web platforms.
+This project is a **UI/UX skill refresh exercise** built with Expo and React Native.  
+It focuses on front‑end design and layout for a Todo List app, showcasing how tasks, filters, and themes could look on mobile and web.
 
 ---
-
 ## 📱 UI / UX Preview
 
 ### Mobile View
