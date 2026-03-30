@@ -1,4 +1,4 @@
-# 🎨 UI/UX Refresh — Todo List App
+# 🎨 UI/UX Refresh — List App
 
 This project is a **UI/UX skill refresh exercise** built with Expo and React Native.  
 It focuses on front‑end design and layout for a Todo List app, showcasing how tasks, filters, and themes could look on mobile and web.
