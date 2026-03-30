@@ -8,7 +8,7 @@ It focuses on design and user experience — showing how the app could look acro
 ## 📱 UI / UX Preview
 
 ### Mobile View
-<img src="UI_UX/assets/screenshots/mobile.jpeg" alt="Mobile UI" width="300" />
+<img src="UI_UX/assets/screenshots/mobile.jpeg" alt="Mobile UI" width="200" />
 
 ### Laptop / Web View
 <img src="UI_UX/assets/screenshots/web.jpeg" alt="Web UI" width="600" />
