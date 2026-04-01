@@ -1,3 +1,4 @@
+// NexCalci - A cross-platform calculator app built with React Native
 import React, { useEffect, useRef, useState } from "react";
 import { View, Text, StyleSheet, Platform } from "react-native";
 import { SafeAreaView } from 'react-native-safe-area-context';
