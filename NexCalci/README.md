@@ -7,3 +7,4 @@
 
 >> npx expo start
 ADD THE NEW FEATURE
+>> npm install algebra.js
